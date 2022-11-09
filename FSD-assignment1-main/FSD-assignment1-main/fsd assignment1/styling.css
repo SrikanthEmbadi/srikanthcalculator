@@ -1,0 +1,30 @@
+.body{
+
+    text-align: center;
+    margin-top: 23px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    border: 5px solid black;
+    width: 380px;
+    
+    
+}
+button{
+    font-size: 40px;
+    background-color: white;
+    width: 90px;
+    height: 58px;
+    
+}
+.cal{
+    display: inline-block;
+    background-color: black;
+    width: 395px;
+    padding-bottom: 5px;
+
+    
+}
